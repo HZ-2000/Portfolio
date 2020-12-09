@@ -1,0 +1,10 @@
+Python Projects: 
+
+1. Rain.py: a simple python program that creates rain
+and some umbrellas that can travel through it. a first
+attempt at learning pygame and its capabilties.
+Files:
+rain.py
+umbrella.py
+umbrella.png
+
