@@ -25,3 +25,6 @@ class Player:
     def move_up(self):
         self.y -= self.speed
         self.direction = 2
+
+        
+        
