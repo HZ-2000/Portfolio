@@ -18,3 +18,6 @@ class umbrella:
 
     def blit_to_screen(self,screen,x,y):
         screen.blit(self.umbrella_img,(x, y))
+        
+        
+        
