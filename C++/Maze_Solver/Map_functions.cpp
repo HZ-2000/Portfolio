@@ -1,6 +1,9 @@
-/*
-Map_functions.cpp
-*/
+/*-------------------------
+ Map_functions.cpp
+ Author: Zach H
+ Date: 11/14/2019
+-------------------------*/
+
 #include <iostream>
 #include "Queue.h"
 using namespace std;
