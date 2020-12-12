@@ -122,7 +122,7 @@ for(int i=0; i < Map_1.y;i++){
   }
   cout << endl;
 }
-cout << "\n ! mark the path! YAY!!!" << endl;
+cout << "\n ! marks the paths" << endl;
 Map_1.clear();
 delete_all();
 }
