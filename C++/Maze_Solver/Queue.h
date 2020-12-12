@@ -1,6 +1,9 @@
- /*
-Queue.h
-*/
+/*-------------------------
+ Queue.h
+ Author: Zach H
+ Date: 11/14/2019
+-------------------------*/
+
 #include<fstream>
 #include<iostream>
 using namespace std;
@@ -61,3 +64,7 @@ public:
   }
 void clear();//deletes the array
 };
+
+
+
+
