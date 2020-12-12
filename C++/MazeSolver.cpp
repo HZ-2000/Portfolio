@@ -32,7 +32,6 @@
 #include "Queue.h"
 using namespace std;
 
-void search(string file);
 int main(){
   string file;
   Queue Queue_1;
