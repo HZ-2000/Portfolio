@@ -1,7 +1,14 @@
-1. MazeSolver.cpp:
+1. MazeSolver.cpp: Using a queue as a method
+of checking all possible paths, this program
+takes in the dimensions of a maze, then the
+maze itself, and finds all possible paths to
+determine if it is solvable or not. 
 
 Files:
 MazeSolver.cpp
 Map_Functions.cpp
 Queue.h
 Map.txt
+
+2. Tree.cpp: A basic tree data structure that
+takes in and 
