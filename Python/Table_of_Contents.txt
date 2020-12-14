@@ -1,6 +1,6 @@
 Python Projects: 
 
-1. Rain.py: a simple python program that creates rain
+1. rain: a simple python program that creates rain
 and some umbrellas that can travel through it. a first
 attempt at learning pygame and its capabilties.
 
@@ -9,7 +9,7 @@ rain.py
 umbrella.py
 umbrella.png
 
-2. cube_dodge.py: Cube dodge, a game where you dodge
+2. CubeDodge: Cube dodge, a game where you dodge
 cubes for as long as possible, each time a cube makes
 it to the edge of the screen another spawns. This was
 a more in depth usage of pygame, and using a timer.
@@ -19,7 +19,7 @@ cube_dodge.py
 CubeEnemies.py
 CubePlayer.py
 
-3. Bikes.py: webscrapping is a really handy tool and
+3. Webscraper: webscrapping is a really handy tool and
 I made a program to gather all the names of santa cruz
 brand bikes of wheel size 27.5" and 29", and their prices.
 
