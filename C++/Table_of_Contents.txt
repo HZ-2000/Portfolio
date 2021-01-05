@@ -11,4 +11,9 @@ Queue.h
 Map.txt
 
 2. Tv_Tree: A basic tree data structure that
-takes in and 
+takes in tv show information and ctagorizes it 
+by start date. it records actor names, an internet
+link to an imdb page, and the show name 
+
+Files:
+
